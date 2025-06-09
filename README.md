@@ -2,6 +2,14 @@
 
 A Python-based command-line tool that helps users track and split shared expenses fairly among groups. Ideal for roommates, travelers, or anyone sharing costs.
 
+## 📁 Files
+
+| File | Description |
+|------|-------------|
+| [Bill Splitting App](./) | Python script to calculate Representation Index and change |
+| `README.md` | This file |
+
+
 ## 🚀 Features
 
 - Add and manage shared expenses
