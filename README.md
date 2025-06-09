@@ -6,7 +6,7 @@ A Python-based command-line tool that helps users track and split shared expense
 
 | File | Description |
 |------|-------------|
-| [Bill Splitting App](./) | Python script to calculate Representation Index and change |
+| [Bill Splitting App](./434_project.py) | Python script |
 | `README.md` | This file |
 
 
